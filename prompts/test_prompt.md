@@ -71,5 +71,5 @@ Posição | País |	Total de Vendas
 
 
 Talvez deva-se de como cada chat interpreta o comando. Um leva em consideração a venda do produto apenas e o outro considera o valor real, já acrescido de desconto. 
-O contexto utilizado no chat também influência na resposta final.
+O contexto / características utilizado no chat também influência na resposta final.
 Quanto mais preciso for a pergunta, utilizando das técnicas de prompt, mais adequada serão as respostas.
